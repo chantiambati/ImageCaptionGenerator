@@ -1,4 +1,5 @@
 streamlit
-requests
-pillow
-torch  
+transformers
+torch
+Pillow
+opencv-python
